@@ -1,0 +1,353 @@
+{
+  "portfolio_data": {
+    "metadata": {
+      "nom": "Portfolio IA",
+      "date_creation": "2026",
+      "version": "1.0",
+      "format": "RAG_optimized"
+    },
+    "sections": [
+      {
+        "title": "Identity and Personal Profile",
+        "content": "I am a 21-year-old engineering student, born on May 1, 2005. Originally from Bamako, the capital of Mali, I am currently studying Artificial Intelligence at ESPRIT in Tunisia. My career path has been marked by a determination to stand out and contribute to the technological development of my home country. Although I am introverted by nature, I compensate for this with strong emotional intelligence, which facilitates my teamwork.",
+        "keywords": [
+          "age",
+          "birth",
+          "Bamako",
+          "Mali",
+          "identity",
+          "introverted",
+          "personality",
+          "student"
+        ]
+      },
+      {
+        "title": "Personal Characteristics",
+        "content": "I describe myself as a courageous, ambitious, and intelligent person. In a team, my greatest qualities are my calmness and understanding of others, coupled with good emotional intelligence. I recognize that my jealousy can sometimes be a flaw, but I turn it into motivation to surpass myself. My main keyword is 'ambitious'—if a recruiter had to remember only one thing about me, it would be that.",
+        "keywords": [
+          "courageous",
+          "ambitious",
+          "intelligent",
+          "calm",
+          "understanding",
+          "jealousy",
+          "qualities",
+          "flaws"
+        ]
+      },
+      {
+        "title": "Ambitions and Goals",
+        "content": "My ultimate professional dream is to become CEO of a major technology company known worldwide and indispensable. For 2026, my goal is to develop my company KORIA GROUP and create others around the world. I am inspired by Elon Musk and his disruptive vision. I aim for significant long-term compensation, with the goal of reaching millions, while having a concrete impact on Mali's development.",
+        "keywords": [
+          "CEO",
+          "company",
+          "dream",
+          "2026 goal",
+          "KORIA GROUP",
+          "Elon Musk",
+          "compensation",
+          "impact",
+          "Mali"
+        ]
+      },
+      {
+        "title": "Motivation and Origin of Passion",
+        "content": "My passion for computing comes from my childhood: fascinated by the codes that scroll in science fiction films, I wanted to do better and stand out. I particularly enjoy competition that pushes for excellence. AI has captivated me because it revolutionizes the world through facilitation and automation. I love the idea that a model can be trained like a newborn and learn continuously, sometimes surpassing human capabilities in speed and intelligence.",
+        "keywords": [
+          "passion",
+          "childhood",
+          "films",
+          "science-fiction",
+          "concurrence",
+          "IA",
+          "revolution",
+          "automatisation",
+          "learning"
+        ]
+      },
+      {
+        "title": "Academic Path",
+        "content": "I started coding at 17 with the C language. After a scientific baccalaureate in Mali, I joined ESPRIT (Higher Private School of Engineering and Technology) in Tunisia. I specialized in Artificial Intelligence starting from 2024-2025. My favorite subjects were mathematics and physics-chemistry, while philosophy interested me less. I obtained several mentions and academic awards during my studies.",
+        "keywords": [
+          "coding",
+          "C",
+          "scientific baccalaureate",
+          "ESPRIT",
+          "Tunisia",
+          "AI specialization",
+          "mathematics",
+          "physics",
+          "awards"
+        ]
+      },
+      {
+        "title": "Student Experience and Engagement",
+        "content": "I regularly participate in hackathons that I particularly enjoy. I have already been part of associations or clubs and plan to join new ones soon. The most important academic shock upon arriving in Tunisia was the difference in level compared to my home country. The main difficulty was adapting to the Tunisian language, as professors often speak in Arabic. The greatest satisfaction is seeing my projects function correctly.",
+        "keywords": [
+          "hackathons",
+          "associations",
+          "clubs",
+          "cultural shock",
+          "language",
+          "Arabic",
+          "difficulties",
+          "satisfaction",
+          "projects"
+        ]
+      },
+      {
+        "title": "Work Philosophy and Management",
+        "content": "My philosophy is 'work more to live better'. I manage stress by eating or going to a quiet place to see situations differently. Facing deadlines, pressure motivates me and I increase my pace. I am a mix of organization and chaos, but always effective. To stay disciplined, I project myself into my future self (CEO) and think about the development my country expects from me.",
+        "keywords": [
+          "philosophy",
+          "stress",
+          "deadlines",
+          "pressure",
+          "organization",
+          "chaos",
+          "efficace",
+          "discipline",
+          "motivation"
+        ]
+      },
+      {
+        "title": "Team Dynamics and Collaboration",
+        "content": "I am flexible: I can work as well alone as in a team. To manage conflicts, I analyze each person's behavior and initiate thoughtful discussions so that each member can see their problems and improve. I don't abandon a project unless I've tried everything and if it creates insurmountable problems, but generally I come back to it. I have already worked with an international team (blockchain hackathon with an Algerian and a Tunisian).",
+        "keywords": [
+          "team",
+          "alone",
+          "collaboration",
+          "conflits",
+          "abandon",
+          "projects",
+          "international",
+          "Algerian",
+          "Tunisian"
+        ]
+      },
+      {
+        "title": "Expertise in Machine Learning",
+        "content": "My first AI project was a Machine Learning project to predict health inspections. I don't have a preference between ML and Deep Learning: I choose based on data size and objectives. I master supervised, unsupervised, and reinforcement learning. I know how to select features using dimensionality reduction techniques and prevent overfitting by adding data or regularization. The most difficult concept for me was time series, but I overcame it with a connected watch project.",
+        "keywords": [
+          "machine learning",
+          "first project",
+          "health inspections",
+          "deep learning",
+          "learning",
+          "supervised",
+          "features",
+          "overfitting",
+          "time series"
+        ]
+      },
+      {
+        "title": "Expertise in Deep Learning",
+        "content": "I mainly use TensorFlow as a framework. My favorite Deep Learning model is the CNN (Convolutional Neural Networks). I have already trained models from scratch and practiced fine-tuning. I particularly explain well the different forms of learning: supervised, unsupervised, and reinforcement.",
+        "keywords": [
+          "deep learning",
+          "TensorFlow",
+          "CNN",
+          "models",
+          "training",
+          "fine-tuning",
+          "neural networks",
+          "convolution"
+        ]
+      },
+      {
+        "title": "Expertise in Computer Vision",
+        "content": "I have worked on object detection and facial recognition. I prefer YOLO (vs SSD or Faster R-CNN). I know segmentation with models like U-Net. I practice data augmentation (adding noise, etc.) to enrich datasets. I use OpenCV on my projects and have done edge deployment with Arduino and ESP32. I haven't done video tracking yet. For me, training is more difficult than dataset construction.",
+        "keywords": [
+          "computer vision",
+          "object detection",
+          "facial recognition",
+          "YOLO",
+          "segmentation",
+          "U-Net",
+          "OpenCV",
+          "Arduino",
+          "ESP32",
+          "edge deployment"
+        ]
+      },
+      {
+        "title": "Expertise in NLP",
+        "content": "I studied NLP last year and currently in the context of a course. I tested classical approaches (TF-IDF, word2vec) but not yet Transformers. I know how to do text classification and sentiment analysis. I have already created several chatbots with RAG (Retrieval-Augmented Generation), particularly in hackathons when I don't have time to train complete models. I understand the concept of embedding: representing words as vectors rather than strings.",
+        "keywords": [
+          "NLP",
+          "TF-IDF",
+          "word2vec",
+          "transformers",
+          "classification",
+          "sentiment",
+          "chatbots",
+          "RAG",
+          "embedding",
+          "vectors"
+        ]
+      },
+      {
+        "title": "Main AI Projects",
+        "content": "1. Intelligent Agricultural Drone: my longest, most technical project and the one I'm most proud of. Integrates AI to automate obstacle detection and plant recognition. Collaboration with the national meteorological service (stressful due to contractual constraints). 2. Automated Recruitment System: Deep Learning project combining Computer Vision and NLP. 3. Smart Watch: time series project. 4. Project with the Ministry of Health: demonstrating my fullstack skills.",
+        "keywords": [
+          "drone",
+          "agricultural",
+          "recruitment",
+          "automated",
+          "smartwatch",
+          "Ministry of Health",
+          "fullstack",
+          "pride",
+          "technical"
+        ]
+      },
+      {
+        "title": "Development Skills",
+        "content": "Frontend : React (preferred). Backend : Django (main choice depending on the case). I often create APIs to serve AI models in 24-48h for hackathons. I know how to use Docker, GitHub Actions and CI/CD. My coding style is a balance between clean code and speed. The project that best shows my fullstack skills is the one with the Ministry of Health.",
+        "keywords": [
+          "React",
+          "Django",
+          "APIs",
+          "Docker",
+          "CI/CD",
+          "GitHub Actions",
+          "clean code",
+          "fullstack",
+          "development"
+        ]
+      },
+      {
+        "title": "Professional and Entrepreneurial Experience",
+        "content": "I am founder and CEO of KORIA GROUP, my company that develops AI, ML, dashboards, drone systems and smart watches. I worked with the national meteorological service for my drone project (real client project). I'm looking for an internship aligned with entrepreneurship and innovation. I prefer to work in a well-established large company, ideally in the United States or China.",
+        "keywords": [
+          "KORIA GROUP",
+          "company",
+          "founder",
+          "meteorology",
+          "internship",
+          "Big company",
+          "United States",
+          "China",
+          "entrepreneurship"
+        ]
+      },
+      {
+        "title": "Methodology and Problem-Solving Approach",
+        "content": "When faced with an unclear project, I start by defining the actual need. To learn quickly, I use the Pomodoro technique. I explain AI models to non-technical people as “code that tries to understand the need.” My biggest technical challenge is currently being documented. The bugs in C in my first year particularly stuck with me.",
+        "keywords": [
+          "methodology",
+          "vague projects",
+          "Pomodoro",
+          "explanation",
+          "non-technical",
+          "technical challenge",
+          "bugs",
+          "C"
+        ]
+      },
+      {
+        "title": "Vision and Future Perspectives",
+        "content": "I want to absolutely continue my studies in Master/PhD to reach the maximum level. The AI domains that currently passion me are AI-robotics integration. In 2026, I want to explore multimodal intelligence. The next technology I want to master is that of AI robots. I see ChatGPT and LLMs as opportunities that facilitate daily life. If I created my own AI agent, it would automate my daily schedule.",
+        "keywords": [
+          "Master's degree",
+          "PhD",
+          "robotics",
+          "multimodal intelligence",
+          "2026",
+          "AI robots",
+          "ChatGPT",
+          "LLMs",
+          "AI agent",
+          "automation"
+        ]
+      },
+      {
+        "title": "Differentiation and Added Value",
+        "content": "What sets me apart: my insatiable curiosity, my adaptability, my resourcefulness and my dual Malian-Tunisian perspective. Why recruit me? I am versatile (ML, CV, NLP, fullstack), I have real experience with clients and a personal company, and I demonstrate concrete impact. My greatest personal pride is having made my mother proud of my journey.",
+        "keywords": [
+          "curiosity",
+          "adaptability",
+          "resourcefulness",
+          "polyvalence",
+          "recruitment",
+          "pride",
+          "mother",
+          "added value",
+          "differentiation"
+        ]
+      },
+      {
+        "title": "RReactions to Challenges and Failures",
+        "content": "When faced with failure, I analyze what caused the problem and advance by avoiding it as much as possible. A major failure: not being selected for a blockchain hackathon that motivated me to do more in the future. What makes me want to surpass myself: the current state of my country and seeing people of my age already advanced. I have emotional intelligence to manage difficult situations.",
+        "keywords": [
+          "failure",
+          "analysis",
+          "hackathon",
+          "blockchain",
+          "motivation",
+          "pays",
+          "emotional intelligence",
+          "challenges"
+        ]
+      },
+      {
+        "title": "Opinions on AI and Tech",
+        "content": "I see AI as a major opportunity that facilitates daily life and allows one to focus on other tasks. I don't yet have a preference between classical NLP and Transformers, having only tested the classical approach. In AI agents, what interests me is their scalability. My vision of the future of computer vision is that it will revolutionize the digital world.",
+        "keywords": [
+          "opinions",
+          "AI",
+          "opportunity",
+          "danger",
+          "scalability",
+          "AI agents",
+          "future",
+          "computer vision",
+          "revolution"
+        ]
+      }
+    ],
+    "search_index": {
+      "areas_of_expertise": [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "NLP",
+        "Development Fullstack"
+      ],
+      "technologies": [
+        "TensorFlow",
+        "React",
+        "Django",
+        "Docker",
+        "OpenCV",
+        "YOLO",
+        "Arduino",
+        "ESP32"
+      ],
+      "flagship_projects": [
+        "Agricultural Drone",
+        "Automated Recruitment",
+        "Smartwatch",
+        "Ministry of Health"
+      ],
+      "entreprises": [
+        "KORIA GROUP",
+        "Weather Service"
+      ],
+      "countries": [
+        "Mali",
+        "Tunisia",
+        "United States",
+        "China"
+      ],
+      "personality_traits": [
+        "ambitious",
+        "courageous",
+        "smart",
+        "introverted",
+        "curious",
+        "adaptable"
+      ]
+    }
+  }
+}

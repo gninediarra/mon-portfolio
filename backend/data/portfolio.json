@@ -1,0 +1,176 @@
+{
+  "profile": {
+    "name": "Gniné Diarra",
+    "title": "AI Engineer",
+    "email": "gnine.diarra@esprit.tn",
+    "location": "Tunis, Tunisia",
+    "bio": "Passionate AI researcher and engineer with expertise in deep learning, NLP, computer vision, and MLOps. Currently focused on building intelligent systems at scale and publishing cutting-edge research.",
+    "experience_years": 3,
+    "education": {
+      "school": "ESPRIT",
+      "degree": "Engineering in Computer Science",
+      "focus": "AI & Machine Learning",
+      "location": "Tunis, Tunisia"
+    },
+    "availability": "Available for projects and collaborations"
+  },
+  "skills": {
+    "languages": ["Python", "C++", "PHP", "JavaScript", "Java", "Rust"],
+    "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn", "XGBoost", "Hugging Face Transformers"],
+    "specializations": [
+      "Deep Learning (CNNs, RNNs, Transformers)",
+      "Natural Language Processing (NLP)",
+      "Computer Vision",
+      "Reinforcement Learning",
+      "MLOps & Model Deployment",
+      "Data Engineering",
+      "Explainable AI"
+    ],
+    "tools": ["Docker", "Kubernetes", "AWS", "Git", "Jupyter", "Figma", "FastAPI", "React"]
+  },
+  "projects": [
+    {
+      "id": "santeConnect",
+      "title": "Santé Connect — AI-Driven Post-Hospitalization Monitoring",
+      "description": "Innovative telemedicine system developed with the Ministry of Health (Tunisia) and ESPRIT",
+      "key_features": [
+        "ESP8266 connected watch with MAX30102 sensors (heart rate + SpO₂)",
+        "ClinicalBERT AI agents for clinical analysis and risk detection",
+        "Medical OCR for prescription extraction",
+        "24/7 patient chatbot",
+        "Real-time medical dashboards"
+      ],
+      "technologies": ["ESP8266", "MAX30102", "FastAPI", "ClinicalBERT", "React", "PPG-DaLiA"],
+      "year": 2025,
+      "role": "Lead AI Engineer",
+      "status": "Production",
+      "impact": "Developed for 50+ patients with 94% accuracy in risk prediction"
+    },
+    {
+      "id": "droneProject",
+      "title": "Agricultural Monitoring Drone",
+      "description": "Intelligent drone system for agricultural and environmental monitoring with edge AI",
+      "key_features": [
+        "ESP32-CAM high-resolution aerial image capture",
+        "YOLOv5 for crop detection and hydric stress identification",
+        "Real-time processing with edge computing",
+        "Integration with Meteorological Service"
+      ],
+      "technologies": ["ESP32-CAM", "YOLOv5", "OpenCV", "Python", "IoT"],
+      "year": 2025,
+      "role": "Lead AI Engineer",
+      "status": "Production",
+      "impact": "Covers 1km radius with 25-minute autonomy"
+    },
+    {
+      "id": "smartRecruitment",
+      "title": "Smart Recruitlent — Intelligent Hiring System",
+      "description": "Complete recruitment platform with multimodal AI for automated candidate evaluation",
+      "key_features": [
+        "AI chatbot with semantic embeddings",
+        "5,554 CVs processed (3,258 PDF + 2,296 DOCX)",
+        "Semantic matching with BGE-M3",
+        "Automatic shortlisting with LLaMA 3.1",
+        "Virtual interview analysis (voice + vision)"
+      ],
+      "technologies": ["LLaMA 3", "BGE-M3", "YOLOv8", "Whisper", "VGG19", "CrewAI"],
+      "year": 2025,
+      "role": "Lead AI Engineer",
+      "status": "Production",
+      "impact": "-80% CV screening time, 5,554 candidates analyzed"
+    },
+    {
+      "id": "aspireHealth",
+      "title": "Aspire — Health Inspections ML Platform",
+      "description": "Predictive analytics platform for health inspections using 300,000+ records",
+      "key_features": [
+        "Regression models for violation severity prediction",
+        "Classification for at-risk establishment identification",
+        "Time series forecasting for inspection trends",
+        "Real-time KPI dashboards"
+      ],
+      "technologies": ["Python", "Scikit-learn", "XGBoost", "Pandas", "Time Series Analysis"],
+      "year": 2024,
+      "role": "Lead AI Engineer",
+      "status": "Production",
+      "impact": "Analyzed 300,000+ inspections for 160,000+ establishments"
+    },
+    {
+      "id": "healthyLiving",
+      "title": "Healthy Living — Predictive Health Platform",
+      "description": "Django web application for hospital patient management with AI-powered emergency prioritization",
+      "key_features": [
+        "Multi-role authentication",
+        "Complete patient data management",
+        "AI-based emergency prioritization",
+        "24/7 patient chatbot with Kommunicate",
+        "Readmission prediction model"
+      ],
+      "technologies": ["Django", "Python", "Transformers", "NLP", "Bootstrap"],
+      "year": 2024,
+      "role": "Lead AI Engineer",
+      "status": "Production",
+      "impact": "-30% administrative burden, instant prioritization"
+    },
+    {
+      "id": "adventureHub",
+      "title": "AdventureHub — Social Travel Platform",
+      "description": "Full-stack platform combining social networking with tourism services",
+      "key_features": [
+        "Differentiated user profiles (travelers/agencies)",
+        "E-commerce with inventory management",
+        "Event management system",
+        "Complaint ticketing system",
+        "Social feed for travel tips"
+      ],
+      "technologies": ["PHP OOP", "MySQL", "PDO", "HTML5/CSS3", "JavaScript"],
+      "year": 2024,
+      "role": "Lead Developer",
+      "status": "Production"
+    },
+    {
+      "id": "beautyCenterMgmt",
+      "title": "Beauty Center Management System",
+      "description": "Professional desktop application (15,000+ lines in C++/Qt) for beauty salon management",
+      "key_features": [
+        "Client management with validation and photos",
+        "Dynamic employee scheduling",
+        "Service catalog and pricing",
+        "Interactive appointment calendar",
+        "Inventory management",
+        "Loyalty system (Bronze/Silver/Gold)",
+        "Real-time dashboards"
+      ],
+      "technologies": ["C++17", "Qt 5.9", "SQLite", "MVC Architecture"],
+      "year": 2023,
+      "role": "Lead Developer",
+      "status": "Production",
+      "impact": "15,000+ lines of production code with 7 integrated modules"
+    }
+  ],
+  "research": {
+    "interests": [
+      "Explainable AI (XAI)",
+      "Medical AI and healthcare applications",
+      "Edge AI and IoT",
+      "Multimodal learning",
+      "Transfer learning",
+      "Efficient deep learning"
+    ],
+    "publications": "Focus on applied research with practical implementations"
+  },
+  "achievements": [
+    "Led AI engineering on 3+ production systems",
+    "Processed 5,554+ CVs with multimodal AI",
+    "Analyzed 300,000+ health inspection records",
+    "Built IoT solutions with edge AI",
+    "15,000+ lines of production desktop application",
+    "ESPRIT Engineering Degree with AI Specialization"
+  ],
+  "languages": ["French", "English", "Bambara", "Arabic"],
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/gnine-diarra/",
+    "github": "https://github.com/gninediarra",
+    "twitter": "https://twitter.com/gninediarra"
+  }
+}
