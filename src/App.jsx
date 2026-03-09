@@ -1256,7 +1256,7 @@ export default function Portfolio() {
                   }}
                 >
                   <img
-                    src="/src/assets/pp_linkedin.jpg"
+                    src="/pp_linkedin.jpg"
                     alt="Votre Photo"
                     style={{
                       width: "100%",
@@ -1448,7 +1448,7 @@ export default function Portfolio() {
             }}
           >
             <img
-              src="/src/assets/pp_linkedin.jpg"
+              src="/pp_linkedin.jpg"
               alt="Votre Photo"
               style={{
                 width: "100%",
