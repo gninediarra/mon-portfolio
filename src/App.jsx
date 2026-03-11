@@ -488,7 +488,7 @@ ESP32-CAM → Transmission RF/WiFi → Ordinateur sol → Inférence YOLOv5
       { k: "Portée", v: "1km" },
       { k: "Autonomie", v: "25min" }
     ],
-    demo: "", // À remplacer par ta vidéo YouTube
+    demo: "https://youtu.be/bvIQ6ZaHMio", // À remplacer par ta vidéo YouTube
     color: "#10b981", // Rose comme l'exemple
     emoji: "✈️",
     highlights: [
